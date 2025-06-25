@@ -1,1 +1,1 @@
-Graficas [graficas.ipynb]
+ [Ver gráficas en `graficas.ipynb`](./graficas.ipynb)
